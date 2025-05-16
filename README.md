@@ -17,12 +17,25 @@ To get started with the project, clone it to your local machine using Git. Open 
 git clone git@github.com:Cdlrayra/Jungle_Chess_CS109.git
 ```
 
-Once the project is loaded, run the login interface program file at:
+Once the project is loaded, put the whole project code into the absolute Path:
 ```bash
 C:\Users\Lenovo\IdeaProjects
 ```
+Please run the login interface program file at:
+```bash
+JUNGLE\src\view\LoginFrame.java
+```
+as a start interface.
 
-as a start interface
+# Game Interface:
+Login Interface:
+           ![image](https://github.com/user-attachments/assets/6ddd8e01-6969-4544-bc2b-14c2a7c12893)
+
+Main Interface:
+           ![image](https://github.com/user-attachments/assets/f1f02f44-55d5-47b0-a32c-c5cee4e3d45d)
+
+Game Interface:
+           ![image](https://github.com/user-attachments/assets/f35ef5eb-45ab-45b4-9cba-db652d218e18)
 
 
 # Supplementary Note:
