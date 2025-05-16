@@ -15,10 +15,12 @@ To get started with the project, clone it to your local machine using Git. Open 
 
 ```bash
 git clone git@github.com:Cdlrayra/Jungle_Chess_CS109.git
+```
 
 Once the project is loaded, run the login interface program file at:
 ```bash
 C:\Users\Lenovo\IdeaProjects
+```
 
 as a start interface
 
