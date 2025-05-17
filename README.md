@@ -39,7 +39,10 @@ as a start interface.
 
 
 # Supplementary Note:
-* 
+* Contributions to Jungle-Chess are welcome!
+* If you find a bug or want to request a feature, feel free to submit an issue.
+* If you want to contribute your code, please submit your pull request.
+* Star the project if you like it.
 * This marks the first programming language course (CS109) I undertook during my university studies, as well as my first programming project. This project not only represents a significant milestone in my programming journey but also stands as my first independently completed work. Here, I would like to extend my heartfelt gratitude to my TA! As the project was completed by a beginner, it inevitably contains various shortcomings. I kindly ask for your understanding and constructive feedback!
  
 
