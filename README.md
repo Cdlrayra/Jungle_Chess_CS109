@@ -5,9 +5,9 @@ It includes the following features:
 * A game login interface;
 * An introduction to the game rules;
 * Multiple game modes:
-* Single-player mode，
-* Human vs. AI mode (implemented using a greedy algorithm for simple game-play)，
-* Online multiplayer mode (limited to LAN connections)；
+** Single-player mode，
+** Human vs. AI mode (implemented using a greedy algorithm for simple game-play)，
+** Online multiplayer mode (limited to LAN connections)；
 * and it also adds other simple functions for the requirements of the course CS109.
 
 # Running the game 
